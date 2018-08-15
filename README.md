@@ -1,12 +1,10 @@
 # Visual Studio Theme Files
 
-These are the new JSON format for VS 2017. I got a lot of them from someone else on GitHub but I couldn't find them again 
-so I figured I would spread the love. I've created a few themes myself and if you would like to add some to this collection 
-please feel free to reach out
+These files are written in the new JSON format for VS 2017 only. I downloaded lot of these from someone else on GitHub but I could never find them again so I figured I would spread the love of cool themes. I've created a few themes myself and if you would like to add some to this collection please feel free to reach out. It would be great to have a huge selection for people.
 
 ## TO AVOID CONFUSION ##
 
-I've seen more than a few people not realize this is completely new format. 
+I've seen more than a few people not realize this is a completely new format. 
 
 + Visual Studio 2017 Only
 + Files are in JSON format (NO XML!!!)
