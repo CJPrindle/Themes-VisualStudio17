@@ -1,6 +1,6 @@
-# Visual Studio Theme Files - _.vstheme_
+# New Visual Studio Theme File Format
 
-These files are in the new JSON format which first appeared ViSual Studio 2017.
+These files are in the new JSON format - _.vstheme_ - which first appeared Visual Studio 2017.
 I downloaded ANY from someone on GitHub but I was unable find them again -- _thank you, anonymous Theme Maker_ -- so I figured I would spread the love of these cool themes. I've created a few of them myself and I urge you to add your own to this collection. It would be great to amass a huge selection for everyone to enjoy.
 
 ---
