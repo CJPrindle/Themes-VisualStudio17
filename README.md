@@ -8,11 +8,11 @@ These files are written in the new JSON format starting with VS 2017. I download
 
 There are two extentions for applying and editing themes in this format:
 - **Color Themes for Visual Studio** - Microsoft DevLabs
-  - Provides the ability to apply themes of this type
+  - Apply themes created in the new JSON format in Visual Studio
   - Download: <https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.ColorThemesforVisualStudio>
   - GitHub: <https://github.com/Microsoft/VS-ColorThemes>
 - **Color Theme Editor for Visual Studio** - Microsoft DevLabs
-  - Create and modify themes
+  - Create custom themes or modify existing themes
   - Download: <https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.VisualStudio2019ColorThemeEditor>
 
 ---
