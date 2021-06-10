@@ -2,12 +2,20 @@
 
 These files are written in the new JSON format starting with VS 2017. I downloaded a lot of these from someone else on GitHub but I could never find them again -- _thank you, anonymous theme maker_ -- so I figured I would spread the love of these cool themes. I've created a few themes myself and urge you to add your own to this collection. It would be great to amass a huge selection for everyone to enjoy.
 
+---
+
 ## Visual Studio Color Theme Extentions
 
-There are two extentions for applying and editing themes in this format.
-- **Color Themes for Visual Studio** - Microsoft
+There are two extentions for applying and editing themes in this format:
+- **Color Themes for Visual Studio** - Microsoft DevLabs
   - Provides the ability to apply themes of this type
-  - <https://github.com/Microsoft/VS-ColorThemes>
+  - Download: <https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.ColorThemesforVisualStudio>
+  - GitHub: <https://github.com/Microsoft/VS-ColorThemes>
+- **Color Theme Editor for Visual Studio** - Microsoft DevLabs
+  - Create and modify themes
+  - Download: <https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.VisualStudio2019ColorThemeEditor>
+
+---
 
 ## TO AVOID CONFUSION ##
 
