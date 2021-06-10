@@ -1,6 +1,12 @@
 # Visual Studio Theme Files
 
-These files are written in the new JSON format starting with VS 2017. I downloaded a lot of these from someone else on GitHub but I could never find them again -- _thank you, anonymous theme maker_ -- so I figured I would spread the love of cool themes. I've created a few themes myself and if you would like to add some to this collection please feel free to reach out. It would be great to have a huge selection for people.
+These files are written in the new JSON format starting with VS 2017. I downloaded a lot of these from someone else on GitHub but I could never find them again -- _thank you, anonymous theme maker_ -- so I figured I would spread the love of these cool themes. I've created a few themes myself and urge you to add your own to this collection. It would be great to amass a huge selection for everyone to enjoy.
+
+## Visual Studio Color Theme Extentions
+
+There are two extentions for applying and editing themes in this format.
+- *Color Themes for Visual Studio*
+  -- All
 
 ## TO AVOID CONFUSION ##
 
