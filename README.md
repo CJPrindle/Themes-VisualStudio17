@@ -5,8 +5,9 @@ These files are written in the new JSON format starting with VS 2017. I download
 ## Visual Studio Color Theme Extentions
 
 There are two extentions for applying and editing themes in this format.
-- *Color Themes for Visual Studio*
-  - All
+- **Color Themes for Visual Studio** - Microsoft
+  - Provides the ability to apply themes of this type
+  - <https://github.com/Microsoft/VS-ColorThemes>
 
 ## TO AVOID CONFUSION ##
 
