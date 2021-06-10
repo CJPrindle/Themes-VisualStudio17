@@ -6,7 +6,7 @@ These files are written in the new JSON format starting with VS 2017. I download
 
 There are two extentions for applying and editing themes in this format.
 - *Color Themes for Visual Studio*
-  -- All
+  - All
 
 ## TO AVOID CONFUSION ##
 
