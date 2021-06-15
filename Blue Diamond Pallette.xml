@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<RichColorCollection FileFormat="3">
+  <Generator>
+    <Name>ColorImpact</Name>
+    <Version>4.25</Version>
+  </Generator>
+  <RichPalette ID="1">
+    <Title>Palette 1</Title>
+    <RichColor ID="1">
+      <Name>R:105 G:160 B:240</Name>
+      <RGB>#69A0F0</RGB>
+    </RichColor>
+    <RichColor ID="2">
+      <Name>R:120 G:125 B:230</Name>
+      <RGB>#787DE6</RGB>
+    </RichColor>
+    <RichColor ID="3">
+      <Name>R:160 G:100 B:230</Name>
+      <RGB>#A064E6</RGB>
+    </RichColor>
+    <RichColor ID="4">
+      <Name>R:240 G:105 B:240</Name>
+      <RGB>#F069F0</RGB>
+    </RichColor>
+    <RichColor ID="5">
+      <Name>R:255 G:110 B:175</Name>
+      <RGB>#FF6EAF</RGB>
+    </RichColor>
+    <RichColor ID="6">
+      <Name>R:255 G:115 B:110</Name>
+      <RGB>#FF736E</RGB>
+    </RichColor>
+    <RichColor ID="7">
+      <Name>R:255 G:155 B:110</Name>
+      <RGB>#FF9B6E</RGB>
+    </RichColor>
+    <RichColor ID="8">
+      <Name>R:255 G:180 B:110</Name>
+      <RGB>#FFB46E</RGB>
+    </RichColor>
+    <RichColor ID="9">
+      <Name>R:255 G:200 B:110</Name>
+      <RGB>#FFC86E</RGB>
+    </RichColor>
+    <RichColor ID="10">
+      <Name>R:255 G:225 B:110</Name>
+      <RGB>#FFE16E</RGB>
+    </RichColor>
+    <RichColor ID="11">
+      <Name>R:255 G:250 B:110</Name>
+      <RGB>#FFFA6E</RGB>
+    </RichColor>
+    <RichColor ID="12">
+      <Name>R:230 G:255 B:110</Name>
+      <RGB>#E6FF6E</RGB>
+    </RichColor>
+    <RichColor ID="13">
+      <Name>R:180 G:245 B:110</Name>
+      <RGB>#B4F56E</RGB>
+    </RichColor>
+    <RichColor ID="14">
+      <Name>R:105 G:235 B:105</Name>
+      <RGB>#69EB69</RGB>
+    </RichColor>
+    <RichColor ID="15">
+      <Name>R:110 G:245 B:235</Name>
+      <RGB>#6EF5EB</RGB>
+    </RichColor>
+    <RichColor ID="16">
+      <Name>R:105 G:190 B:235</Name>
+      <RGB>#69BEEB</RGB>
+    </RichColor>
+  </RichPalette>
+</RichColorCollection>
