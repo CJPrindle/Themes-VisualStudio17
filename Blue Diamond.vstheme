@@ -4904,7 +4904,7 @@
         <Background Type="CT_RAW" Source="FF69A0F0" />
       </Color>
       <Color Name="NewProjectBackground">
-        <Background Type="CT_RAW" Source="FF21252B" />
+        <Background Type="CT_RAW" Source="FFDB5B18" />
       </Color>
       <Color Name="NewProjectProviderHoverForeground">
         <Background Type="CT_RAW" Source="FFF1F1F1" />
@@ -7792,7 +7792,7 @@
     </Category>
     <Category Name="NewProjectDialog" GUID="{c36c426e-31c9-4048-84cf-31c111d65ec0}">
       <Color Name="Background">
-        <Background Type="CT_RAW" Source="FF21252B" />
+        <Background Type="CT_RAW" Source="FFEE0E0E" />
       </Color>
       <Color Name="Wonderbar">
         <Background Type="CT_RAW" Source="FF21252B" />
@@ -7837,8 +7837,8 @@
         <Background Type="CT_RAW" Source="FF2C313A" />
       </Color>
       <Color Name="TreeArrowChecked">
-        <Background Type="CT_RAW" Source="FFF1F1F1" />
-        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Foreground Type="CT_RAW" Source="FF656EE7" />
       </Color>
       <Color Name="TreeArrow">
         <Background Type="CT_RAW" Source="FF21252B" />
@@ -7901,7 +7901,7 @@
         <Foreground Type="CT_RAW" Source="FF999999" />
       </Color>
       <Color Name="WatermarkText">
-        <Foreground Type="CT_RAW" Source="FF999999" />
+        <Foreground Type="CT_RAW" Source="FF0B3A60" />
       </Color>
     </Category>
     <Category Name="NotificationBubble" GUID="{800c5171-6625-4a74-b3e2-a6cd0b4698d4}">
@@ -10211,13 +10211,13 @@
         <Background Type="CT_RAW" Source="FF181A1F" />
       </Color>
       <Color Name="TagText">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FFF5F6FE" />
       </Color>
       <Color Name="TagBorder">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FF6AC5F3" />
       </Color>
       <Color Name="TagBackground">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FF656EE7" />
       </Color>
       <Color Name="PromotionBoxBackground">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
@@ -11241,27 +11241,27 @@
       </Color>
       <Color Name="Tag">
         <Background Type="CT_RAW" Source="FF424242" />
-        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
+        <Foreground Type="CT_RAW" Source="FFF5F6FE" />
       </Color>
       <Color Name="TagHover">
         <Background Type="CT_RAW" Source="FF606060" />
-        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
+        <Foreground Type="CT_RAW" Source="FFE6FF6E" />
       </Color>
       <Color Name="TagActive">
         <Background Type="CT_RAW" Source="FF3399FF" />
-        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
+        <Foreground Type="CT_RAW" Source="FFE6FF6E" />
       </Color>
       <Color Name="TagHoverGlyphHover">
         <Background Type="CT_RAW" Source="FF393939" />
-        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
+        <Foreground Type="CT_RAW" Source="FFF5F6FE" />
       </Color>
       <Color Name="TagHoverGlyphPressed">
         <Background Type="CT_RAW" Source="FF007ACC" />
-        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
+        <Foreground Type="CT_RAW" Source="FFE6FF6E" />
       </Color>
       <Color Name="TagActiveGlyphHover">
         <Background Type="CT_RAW" Source="FF52B0EF" />
-        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
+        <Foreground Type="CT_RAW" Source="FFF5F6FE" />
       </Color>
       <Color Name="TagActiveGlyphPressed">
         <Background Type="CT_RAW" Source="FF0E6198" />
@@ -11271,7 +11271,7 @@
         <Foreground Type="CT_RAW" Source="FF52B0EF" />
       </Color>
       <Color Name="TagActiveGlyphPressedBorder">
-        <Foreground Type="CT_RAW" Source="FF0E6198" />
+        <Foreground Type="CT_RAW" Source="FFF5F6FE" />
       </Color>
       <Color Name="TagHoverGlyphHoverBorder">
         <Foreground Type="CT_RAW" Source="FF393939" />
